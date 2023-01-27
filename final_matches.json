@@ -1,0 +1,217 @@
+{
+    "match_id": 6038,
+    "livestream_provider": "north-sky",
+    "winner_of_the_match": "T2",
+    "region_name": "north",
+    "match_link": "cric/t20/north/t1vst2/v1/6038",
+    "team1": "T1",
+    "team2": "T2",
+    "start_time": 1629944520
+}{
+    "match_id": 6039,
+    "livestream_provider": "north-sky",
+    "winner_of_the_match": "T2",
+    "region_name": "north",
+    "match_link": "cric/t20/north/t2vst3/v2/6039",
+    "team1": "T2",
+    "team2": "T3",
+    "start_time": 1629944520
+}{
+    "match_id": 6040,
+    "livestream_provider": "north-sky",
+    "winner_of_the_match": "T4",
+    "region_name": "north",
+    "match_link": "cric/t20/north/t3vst4/v3/6040",
+    "team1": "T3",
+    "team2": "T4",
+    "start_time": 1629944520
+}{
+    "match_id": 6041,
+    "livestream_provider": "north-sky",
+    "winner_of_the_match": "",
+    "region_name": "north",
+    "match_link": "cric/t20/north/t4vst1/v4/6041",
+    "team1": "T4",
+    "team2": "T1",
+    "start_time": 1629944520
+}{
+    "match_id": 16038,
+    "livestream_provider": "nz-ez",
+    "winner_of_the_match": "T2",
+    "region_name": "NewZealand",
+    "match_link": "cric/odi/nz/t1vst2/v1/16038",
+    "team1": "T1",
+    "team2": "T2",
+    "start_time": 1629944520
+}{
+    "match_id": 16039,
+    "livestream_provider": "nz-ez",
+    "winner_of_the_match": "T2",
+    "region_name": "NewZealand",
+    "match_link": "cric/odi/nz/t2vst3/v2/16039",
+    "team1": "T2",
+    "team2": "T3",
+    "start_time": 1629944520
+}{
+    "match_id": 16040,
+    "livestream_provider": "nz-ez",
+    "winner_of_the_match": "T4",
+    "region_name": "NewZealand",
+    "match_link": "cric/odi/nz/t3vst4/v3/16040",
+    "team1": "T3",
+    "team2": "T4",
+    "start_time": 1629944520
+}{
+    "match_id": 16041,
+    "livestream_provider": "nz-ez",
+    "winner_of_the_match": "T1",
+    "region_name": "NewZealand",
+    "match_link": "cric/odi/nz/t4vst1/v4/16041",
+    "team1": "T4",
+    "team2": "T1",
+    "start_time": 1629944520
+}{
+    "match_id": 7038,
+    "livestream_provider": "south-sky",
+    "winner_of_the_match": "T6",
+    "region_name": "south",
+    "match_link": "cric/t20/south/t5vst6/v5/7038",
+    "team1": "T5",
+    "team2": "T6",
+    "start_time": 1629944520
+}{
+    "match_id": 7039,
+    "livestream_provider": "south-sky",
+    "winner_of_the_match": "",
+    "region_name": "south",
+    "match_link": "cric/t20/south/t6vst7/v6/7039",
+    "team1": "T6",
+    "team2": "T7",
+    "start_time": 1629944520
+}{
+    "match_id": 7040,
+    "livestream_provider": "south-sky",
+    "winner_of_the_match": "T8",
+    "region_name": "south",
+    "match_link": "cric/t20/south/t7vst8/v7/7040",
+    "team1": "T7",
+    "team2": "T8",
+    "start_time": 1629944520
+}{
+    "match_id": 7041,
+    "livestream_provider": "south-sky",
+    "winner_of_the_match": "T8",
+    "region_name": "south",
+    "match_link": "cric/t20/south/t8vst5/v8/7041",
+    "team1": "T8",
+    "team2": "T5",
+    "start_time": 1629944520
+}{
+    "match_id": 17038,
+    "livestream_provider": "south-sky",
+    "winner_of_the_match": "T5",
+    "region_name": "south",
+    "match_link": "cric/t20/south/t5vst6/v5/17038",
+    "team1": "T5",
+    "team2": "T6",
+    "start_time": 1629944520
+}{
+    "match_id": 17039,
+    "livestream_provider": "south-sky",
+    "winner_of_the_match": "T6",
+    "region_name": "south",
+    "match_link": "cric/t20/south/t6vst7/v6/17039",
+    "team1": "T6",
+    "team2": "T7",
+    "start_time": 1629944520
+}{
+    "match_id": 17040,
+    "livestream_provider": "south-sky",
+    "winner_of_the_match": "",
+    "region_name": "south",
+    "match_link": "cric/t20/south/t7vst8/v7/17040",
+    "team1": "T7",
+    "team2": "T8",
+    "start_time": 1629944520
+}{
+    "match_id": 17041,
+    "livestream_provider": "south-sky",
+    "winner_of_the_match": "T8",
+    "region_name": "south",
+    "match_link": "cric/t20/south/t8vst5/v8/17041",
+    "team1": "T8",
+    "team2": "T5",
+    "start_time": 1629944520
+}{
+    "match_id": 8038,
+    "livestream_provider": "central-sky",
+    "winner_of_the_match": "T10",
+    "region_name": "central",
+    "match_link": "cric/t20/central/t10vst11/v10/8038",
+    "team1": "T10",
+    "team2": "T11",
+    "start_time": 1629944520
+}{
+    "match_id": 8039,
+    "livestream_provider": "central-sky",
+    "winner_of_the_match": "T12",
+    "region_name": "central",
+    "match_link": "cric/t20/central/t11vst12/v11/8039",
+    "team1": "T11",
+    "team2": "T12",
+    "start_time": 1629944520
+}{
+    "match_id": 8040,
+    "livestream_provider": "central-sky",
+    "winner_of_the_match": "T12",
+    "region_name": "central",
+    "match_link": "cric/t20/central/t12vst13/v12/8040",
+    "team1": "T12",
+    "team2": "T13",
+    "start_time": 1629944520
+}{
+    "match_id": 8041,
+    "livestream_provider": "central-sky",
+    "winner_of_the_match": "T10",
+    "region_name": "central",
+    "match_link": "cric/t20/central/t13vst10/v13/8041",
+    "team1": "T13",
+    "team2": "T10",
+    "start_time": 1629944520
+}{
+    "match_id": 18038,
+    "livestream_provider": "central-sky",
+    "winner_of_the_match": "T10",
+    "region_name": "central",
+    "match_link": "cric/t20/central/t10vst11/v10/18038",
+    "team1": "T10",
+    "team2": "T11",
+    "start_time": 1629944520
+}{
+    "match_id": 18039,
+    "livestream_provider": "central-sky",
+    "winner_of_the_match": "T12",
+    "region_name": "central",
+    "match_link": "cric/t20/central/t11vst12/v11/18039",
+    "team1": "T11",
+    "team2": "T12",
+    "start_time": 1629944520
+}{
+    "match_id": 18040,
+    "livestream_provider": "central-sky",
+    "winner_of_the_match": "T12",
+    "region_name": "central",
+    "match_link": "cric/t20/central/t12vst13/v12/18040",
+    "team1": "T12",
+    "team2": "T13",
+    "start_time": 1629944520
+}{
+    "match_id": 18041,
+    "livestream_provider": "central-sky",
+    "winner_of_the_match": "T10",
+    "region_name": "central",
+    "match_link": "cric/t20/central/t13vst10/v13/18041",
+    "team1": "T13",
+    "team2": "T10",
+    "start_time": 1629944520
+}
